@@ -19,6 +19,6 @@
 "https://raw.githubusercontent.com/kingcut/DrawKidImage/master/kn/kn.princess/image/image_17.png",
 "https://raw.githubusercontent.com/kingcut/DrawKidImage/master/kn/kn.princess/image/image_18.png",
 "https://raw.githubusercontent.com/kingcut/DrawKidImage/master/kn/kn.princess/image/image_19.png",
-"https://raw.githubusercontent.com/kingcut/DrawKidImage/master/kn/kn.princess/image/image_20.png",
+"https://raw.githubusercontent.com/kingcut/DrawKidImage/master/kn/kn.princess/image/image_20.png"
 ]
 }
