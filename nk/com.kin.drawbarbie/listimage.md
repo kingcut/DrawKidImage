@@ -1,6 +1,6 @@
 {
 "video":"18",
-"flag":"0",
+"flag":"1",
 "image":[
 "https://raw.githubusercontent.com/kingcut/DrawKidImage/master/kn/kn.princess/image/image_21.png",
 "https://raw.githubusercontent.com/kingcut/DrawKidImage/master/kn/kn.princess/image/image_22.png",
